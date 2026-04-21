@@ -1,6 +1,12 @@
 # gaussian-bandits
 Experimentation with Gaussian multi-armed bandits and action selection functions.
 
+> **Status:** Personal / university coursework archive — **not actively maintained**. Dependencies and tooling may be outdated.
+
+## How to run
+
+Use **Python 3** and **Jupyter** (`pip install jupyter numpy matplotlib` or similar). Open the main notebook in this repository and run cells top to bottom.
+
 ![image](https://user-images.githubusercontent.com/8168416/157848879-8d64be9f-73b8-48aa-b7c3-d5236691cb1c.png)
 
 ## Description
